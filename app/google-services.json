@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197546027617",
+    "project_id": "protean-beaker-132223"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197546027617:android:635d9b614b4063d4",
+        "android_client_info": {
+          "package_name": "com.example.pablo.mapaejemplo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197546027617-33rqedgprad48qk3bqaila2rv3at7bot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pablo.mapaejemplo2",
+            "certificate_hash": "8DD23BABC4CA54E17277F1029DBACA8EEFB2D2CF"
+          }
+        },
+        {
+          "client_id": "197546027617-m5vulrfiltrvlktp2m2p0knjgudhecvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwj6EYueF3DNKSuUy_kz-iYga5c_m29ic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_menu_inicioo"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_ruta"
+            android:icon="@drawable/ic_menu_ruta"
+            android:title="Ruta" />
+        <item
+            android:id="@+id/nav_buscar"
+            android:icon="@drawable/ic_menu_buscar"
+            android:title="Buscar" />
+        <item
+            android:id="@+id/nav_listar"
+            android:icon="@drawable/ic_menu_listar"
+            android:title="Listar" />
+    </group>
+
+    <item android:title="Comunicate con nosotros">
+        <menu>
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/ic_menu_face"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_inbox"
+                android:title="Inbox" />
+        </menu>
+    </item>
+
+</menu>
